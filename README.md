@@ -1,7 +1,7 @@
 # OpenSourceEnergySystemModelingHW3
 
-
-
+In this assignment the MESSAGEix (https://github.com/iiasa/message_ix) Westeros baseline tutorial was cloned and extended. A new technology (LED) is added, 
+carbon prices are introduced and diffusion rates for the usage of the new technology (LED).
 
 
 ## License
