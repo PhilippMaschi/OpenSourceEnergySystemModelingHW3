@@ -5,6 +5,7 @@ carbon prices are introduced and diffusion rates for the usage of the new techno
 
 
 ## License
+Copyright 2022 Philipp Mascherbauer
 
 The Assignment is licensed under the Apache License, Version 2.0 (the "License"); you may not use the files in 
 this repository except in compliance with the License. You may obtain a copy of the License in [`LICENSE`](LICENSE) or 
